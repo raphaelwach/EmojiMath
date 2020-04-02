@@ -1,7 +1,7 @@
 extension Character {
 
     fileprivate static private(set) var associations: [Character : [Character]] = [
-        "🥶" : ["😬", "❄"],
+        "🥶" : ["😬", "❄️"],
         "🤮" : ["💩", "😋"],
         "😎" : ["🙂", "🌞"],
         "🥵" : ["🏃‍♂️", "🚴‍♂️"],

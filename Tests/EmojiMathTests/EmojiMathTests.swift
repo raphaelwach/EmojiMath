@@ -11,7 +11,7 @@ final class EmojiMathTests: XCTestCase {
     }
 
     func testAddition() {
-        add("😬", and: "❄", expect: "🥶")
+        add("😬", and: "❄️", expect: "🥶")
         add("x", and: "e", expect: "❓")
     }
 
