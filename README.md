@@ -1,2 +1,3 @@
 # EmojiMath
-A Swift package to add emojis
+
+A description of this package.
